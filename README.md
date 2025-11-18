@@ -13,8 +13,6 @@ Este perfil (@victordoIF) é um **diário acadêmico** dedicado a armazenar toda
 ---
 
 ## 🧑‍🎓 Informações Acadêmicas
-
-| Detalhe | Valor |
 | :--- | :--- |
 | **Aluno** | **Victor Manuel Cunha Santos** |
 | **Curso** | Análise e Desenvolvimento de Sistemas |
