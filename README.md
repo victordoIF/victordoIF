@@ -1,43 +1,31 @@
-# Olá! Eu sou o Victor Manuel. 👋
+<h1 align="center">Victor Manuel Cunha Santos</h1>
 
-### Bem-vindo ao meu espaço de aprendizado no IFCE.
+<p align="center">
+  🎓 <b>Análise e Desenvolvimento de Sistemas</b> | IFCE - Campus Umirim
+</p>
 
----
+<p align="center">
+  <i>Bem-vindo ao meu arquivo acadêmico (@victordoIF)</i>
+</p>
 
-## 📚 Sobre Este Perfil
+<br>
 
-Este perfil (@victordoIF) é um **diário acadêmico** dedicado a armazenar todas as atividades, exercícios e projetos desenvolvidos no meu curso de **Análise e Desenvolvimento de Sistemas**.
+## 📖 Sobre este Perfil
 
-**Não é um portfólio profissional** e sim o registro do meu progresso e evolução técnica. Sinta-se à vontade para explorar os repositórios!
+Este espaço é dedicado **exclusivamente** à minha jornada académica. Aqui armazeno e versiono as listas de exercícios, desafios de aula e projetos práticos desenvolvidos durante a graduação.
 
----
-
-## 🧑‍🎓 Informações Acadêmicas
-| :--- | :--- |
-| **Aluno** | **Victor Manuel Cunha Santos** |
-| **Curso** | Análise e Desenvolvimento de Sistemas |
-| **Semestre Atual** | S2 |
-| **Instituição** | **IFCE - Campus Umirim** |
+O objetivo é manter um histórico organizado de toda a minha evolução no curso.
 
 ---
 
-## 🚀 Tecnologias em Foco (S2)
+### 📌 Detalhes Académicos
 
-Com base nas atividades em andamento, meu foco atual de estudo inclui:
-
-* **Linguagens:** Python, JavaScript
-* **Banco de Dados:** MySQL (SQL)
-* **Web Frameworks:** Flask
-* **DevOps/Ambiente:** Docker, Docker Compose
-* **Disciplinas:** Programação Estruturada, Ambiente de Software, [Outras Disciplinas]
+* **Semestre Atual:** S2
+* **Objetivo:** Repositório de Atividades e Treinos
+* **Repositórios Principais:** `programacao-estruturada`, `ambiente-software`
 
 ---
 
-## 💡 Estrutura dos Repositórios
-
-Os repositórios são organizados pelo nome da disciplina ou pelo desafio de projeto:
-
-* **`programacao-estruturada`**: Contém todos os exercícios de aula divididos por data.
-* **`ambiente-software-desafio-docker`**: Projeto base de ambiente padronizado (Flask + MySQL com Docker Compose).
-
----
+<p align="center">
+  <sub>Este perfil não é um portfólio profissional.</sub>
+</p>
