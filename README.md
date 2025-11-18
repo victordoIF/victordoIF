@@ -22,7 +22,6 @@ O objetivo é manter um histórico organizado de toda a minha evolução no curs
 
 * **Semestre Atual:** S2
 * **Objetivo:** Repositório de Atividades e Treinos
-* **Repositórios Principais:** `programacao-estruturada`, `ambiente-software`
 
 ---
 
